@@ -1,0 +1,22 @@
+{
+  "section": {
+    "welcome": {
+      "title": "Hi, I'm ",
+      "subtitle": "Full-Stack Web Developer"
+    },
+    "about": {
+      "title": "Who am I?",
+      "whoami": "My name is Alejandro Sanchez and I'm from Venezuela, I'm currently a student of software engineering and I'm dedicated to Full-Stack web programming using tools such as React and Next.js creating accessible websites with a good user experience.",
+      "mytools": "As a Full-Stack developer, I use languages and tools to develop both frontend and backend, some of the tools I have worked with recently are:"
+    },
+    "contact": {
+      "title": "Contact me",
+      "subject": "Subject",
+      "subject-placeholder": "Hi, I want to hire you",
+      "body": "Body",
+      "body-placeholder": "The job consists of..."
+    }
+  },
+  "translate-button": "English",
+  "code": "Code"
+}

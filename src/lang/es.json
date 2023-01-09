@@ -1,0 +1,25 @@
+{
+  "section": {
+    "welcome": {
+      "title": "Hola, soy ",
+      "subtitle": "Desarrollador Web Full-Stack"
+    },
+    "about": {
+      "title": "¿Quién soy?",
+      "whoami": "Me llamo Alejandro Sánchez y soy de Venezuela, actualmente soy estudiante de ingeniería informática y me dedico a la programación web Full-Stack haciendo uso de herramientas tales como React y Next.js creando sitios web accesibles y con una buena experiencia de usuario.",
+      "mytools": "Como desarrolador Full-Stack, utilizo lenguajes y herramientas para desarrollar tanto frontend como backend, algunas de las herramientas con las que he trabajado recientemente son:"
+    },
+    "work": {
+      "title": "Mis proyectos"
+    },
+    "contact": {
+      "title": "¿Quieres contactarme?",
+      "subject": "Titulo",
+      "subject-placeholder": "Hola, te quiero contratar",
+      "body": "Mensaje",
+      "body-placeholder": "El trabajo consiste en..."
+    }
+  },
+  "translate-button": "Español",
+  "code": "Código"
+}
