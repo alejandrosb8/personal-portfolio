@@ -9,6 +9,9 @@
       "whoami": "My name is Alejandro Sanchez and I'm from Venezuela, I'm currently a student of software engineering and I'm dedicated to Full-Stack web programming using tools such as React and Next.js creating accessible websites with a good user experience.",
       "mytools": "As a Full-Stack developer, I use languages and tools to develop both frontend and backend, some of the tools I have worked with recently are:"
     },
+    "work": {
+      "title": "My projects"
+    },
     "contact": {
       "title": "Contact me",
       "subject": "Subject",
